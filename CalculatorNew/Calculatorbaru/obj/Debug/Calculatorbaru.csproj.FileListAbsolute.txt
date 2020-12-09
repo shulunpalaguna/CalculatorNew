@@ -1,0 +1,11 @@
+C:\Users\TOSHIBA\Source\Repos\CalculatorEvent\Calculatorbaru\bin\Debug\Calculatorbaru.exe.config
+C:\Users\TOSHIBA\Source\Repos\CalculatorEvent\Calculatorbaru\bin\Debug\Calculatorbaru.exe
+C:\Users\TOSHIBA\Source\Repos\CalculatorEvent\Calculatorbaru\bin\Debug\Calculatorbaru.pdb
+C:\Users\TOSHIBA\Source\Repos\CalculatorEvent\Calculatorbaru\obj\Debug\Calculatorbaru.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Source\Repos\CalculatorEvent\Calculatorbaru\obj\Debug\Calculatorbaru.Form1.resources
+C:\Users\TOSHIBA\Source\Repos\CalculatorEvent\Calculatorbaru\obj\Debug\Calculatorbaru.Form2.resources
+C:\Users\TOSHIBA\Source\Repos\CalculatorEvent\Calculatorbaru\obj\Debug\Calculatorbaru.Properties.Resources.resources
+C:\Users\TOSHIBA\Source\Repos\CalculatorEvent\Calculatorbaru\obj\Debug\Calculatorbaru.csproj.GenerateResource.cache
+C:\Users\TOSHIBA\Source\Repos\CalculatorEvent\Calculatorbaru\obj\Debug\Calculatorbaru.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Source\Repos\CalculatorEvent\Calculatorbaru\obj\Debug\Calculatorbaru.exe
+C:\Users\TOSHIBA\Source\Repos\CalculatorEvent\Calculatorbaru\obj\Debug\Calculatorbaru.pdb
